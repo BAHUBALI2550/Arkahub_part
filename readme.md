@@ -19,6 +19,7 @@ This project is a Node.js client that aggregates telemetry data from 500 solar i
 
 ### 1. Start the Mock API
 ```bash
-cd mock-api
+cd mock_api
 npm install
 npm start
+```
